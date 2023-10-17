@@ -290,6 +290,10 @@ tr:nth-child(even) {
 
 /* --- img2 --- */
 
+.summarytbl{
+  width: 114.4%;
+  margin-left: -11px
+}
 .summarytbl_heading {
   color: #00668c;
   border: 2px solid #00668c;
@@ -320,4 +324,7 @@ tr:nth-child(even) {
 .th_borderbtm{
   border-bottom: 2px solid #00668c;
   background-color: #b5e6eb;
+}
+.tr_border{
+    border: 2px solid #00668c;
 }
