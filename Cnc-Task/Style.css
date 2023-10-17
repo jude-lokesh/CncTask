@@ -93,13 +93,13 @@
   flex: 46%;
 }
 .profile_content_right {
-    flex: 58%;
-}  
-.id_leftContent{
-    flex: 46%;
+  flex: 58%;
 }
-.id_rightContent{
-    flex: 58%;
+.id_leftContent {
+  flex: 46%;
+}
+.id_rightContent {
+  flex: 58%;
 }
 .d4_container {
   display: flex;
@@ -161,8 +161,8 @@
   flex-direction: row;
 }
 .d5_label {
-    color: #00668c;
-    min-width: 38%;
+  color: #00668c;
+  min-width: 38%;
 }
 .d5_ele {
   /* display: flex;
@@ -237,7 +237,7 @@ tr:nth-child(even) {
   font-size: 13px;
   font-weight: 600;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  width: 97px;
+  width: 11%;
 }
 
 .d8_container {
@@ -280,10 +280,44 @@ tr:nth-child(even) {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   width: 97px;
 }
-.noRecord{
-    color: #00668c;
-    font-size: 15px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 600;
-    margin-left: 30%;
+.noRecord {
+  color: #00668c;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;
+  margin-left: 30%;
+}
+
+/* --- img2 --- */
+
+.summarytbl_heading {
+  color: #00668c;
+  border: 2px solid #00668c;
+}
+.summarytbl_heading th{
+  border: 2px solid #00668c;
+  /* padding: 7px 15px; */
+}
+.summarytbl  th{
+  border: 2px solid #00668c;
+}
+.Ci_Details_heaing {
+  border: 2px solid #00668c;
+  width: 99%;
+  color: #00668c;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  margin-top: 5px;
+}
+.cid_label {
+  color: #00668c;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+}
+.table_head{
+  background-color: #b5e6eb;
+}
+.th_borderbtm{
+  border-bottom: 2px solid #00668c;
+  background-color: #b5e6eb;
 }
